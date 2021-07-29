@@ -1,0 +1,42 @@
+.font-size{
+    font-size: 14px;
+}
+.mated-font{
+    font-size: 16px;
+}
+.banner{
+    background-color:#264653;
+    
+}
+.button{
+    background-color: #E76F51;
+    
+    border-radius: 5px;
+}
+#best{
+    color:  #E76F51;
+    font-size: 14px;
+
+}
+.scale{
+    filter: grayscale(100%);
+}
+.fas{
+    color: #E77C40;
+    
+}
+.far{
+color: #E77C40;
+}
+.normal{
+color:#E77C40 ;
+}
+#jhankar{
+    font-size: 14px;
+}
+.card-text{
+    color: #6C6C6C;
+}
+.Honda{
+    font-size: 13px;
+}
